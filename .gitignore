@@ -1,0 +1,5 @@
+_archieved/
+datasets/
+packages/
+test/
+models/all_weights/yolov8x.pt
